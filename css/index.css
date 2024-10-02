@@ -1,0 +1,17 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+    background-color: black(61, 59, 55);
+    color: aliceblue;
+}
+h1{
+    background-color: rgb(191, 191, 220);
+    text-align: center;
+}
+img{
+    border: 0cap;
+    display: inline-block;
+    
+}
